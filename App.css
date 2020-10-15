@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.text {
+    font-size: 12px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
